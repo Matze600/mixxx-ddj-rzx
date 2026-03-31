@@ -63,6 +63,9 @@ The DDJ-RZX headphone jack on the mixer requires audio to pass through the contr
 - VU meters on the controller are analog hardware — they require audio signal through the DDJ-RZX mixer channel, which is not possible without the proprietary driver
 - The USBLAN port (2b73:000f) is a CDC ECM Ethernet interface for Pro DJ Link — not an audio interface
 
-## Contributing
+## Discussion
+
+- **Mixxx Forum (DDJ-RZX issues & questions):** https://mixxx.discourse.group/c/controller-mappings/10
+- **DDJ-SX thread (original basis for this mapping):** https://mixxx.discourse.group/t/pioneer-ddj-sx-controller-mapping/15954
 
 Issues and pull requests welcome.
